@@ -47,4 +47,4 @@ Feel free to explore the labs, and don't hesitate to reach out if you have quest
 - <a href="https://tryhackme.com/p/karimayman481" target="_blank">
   <img src="https://img.shields.io/badge/-TryHackMe-2e7d32?&style=for-the-badge&logo=tryhackme&logoColor=white" /></a> <a href="https://www.linkedin.com/in/karimayman481/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 
-Let’s hack and learn together! 😊
+Let’s hack ! 😈
