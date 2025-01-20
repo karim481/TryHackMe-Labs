@@ -37,7 +37,8 @@ Feel free to explore the labs, and don't hesitate to reach out if you have quest
 
 ## Lab List  
 
-- [Anonymous Room Walkthrough](https://github.com/karim481/Anonymous/blob/main/README.md)  
+- [Anonymous Room Walkthrough](https://github.com/karim481/Anonymous/blob/main/README.md)
+- [Tomghost Room Walkthrough](https://github.com/karim481/Tomghost-Room-Walkthrough/tree/main)  
 
 
 
