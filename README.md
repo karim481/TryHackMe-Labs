@@ -39,7 +39,7 @@ Feel free to explore the labs, and don't hesitate to reach out if you have quest
 
 - [Anonymous Room Walkthrough](https://github.com/karim481/Anonymous/blob/main/README.md)
 - [Tomghost Room Walkthrough](https://github.com/karim481/Tomghost-Room-Walkthrough/tree/main)  
-
+- [LazyAdmin Room Walkthrough](https://github.com/karim481/LazyAdmin-Room-Walkthrough/blob/main/README.md)  
 
 
 ---
